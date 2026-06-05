@@ -2,7 +2,7 @@
 
 I study computer science at Istanbul University and build practical developer tools, data projects, and focused open-source fixes.
 
-This week I focused on small, reviewable contributions across CLI tooling, documentation, and upstream bug fixes. I opened 6 pull requests, landed 1 merge, and shipped a first release for `commit-docket`.
+This week I focused on small, reviewable contributions across CLI tooling, regression coverage, and upstream bug fixes. I opened 9 pull requests, landed 5 of them, and had an upstream `pnpm` fix merged.
 
 ## Current focus
 
@@ -12,20 +12,20 @@ This week I focused on small, reviewable contributions across CLI tooling, docum
 
 ## Recent work
 
-- [`commit-docket`](https://github.com/suzunn/commit-docket): I built a Node.js CLI that turns git commit ranges into release notes and risk summaries.
-- [`ndjson-doctor`](https://github.com/suzunn/ndjson-doctor): I started a dependency-free CLI for validating and profiling NDJSON/JSONL files.
-- [`dotenv-contract-cli`](https://github.com/suzunn/dotenv-contract-cli): I built a small validator for checking `.env` files against a declared contract.
-- [`NodeBB#14297`](https://github.com/NodeBB/NodeBB/pull/14297): I fixed a markdown escaping edge case in translator handling.
-- [`github/docs#44450`](https://github.com/github/docs/pull/44450): I updated ARC quickstart authentication guidance.
+- [`pnpm#12029`](https://github.com/pnpm/pnpm/pull/12029): I added retry handling for pacquet metadata fetches so transient registry failures follow the configured retry policy.
+- [`fastify#6755`](https://github.com/fastify/fastify/pull/6755): I normalized prefixed root route URLs while keeping nested trailing-slash routes unchanged.
+- [`port-ledger`](https://github.com/suzunn/port-ledger): I shipped a local development port reservation CLI and documented the public API helpers.
+- [`oss-scout`](https://github.com/suzunn/oss-scout): I added regression coverage for CLI validation, label normalization, issue dedupe, GitHub API mapping, and JSON rendering.
+- [`commit-docket`](https://github.com/suzunn/commit-docket): I documented the release model construction and SemVer bump inference helpers.
 
 ## Weekly snapshot
 
-- Contributions: 22
+- Contributions: 21
 - Commits: 7
-- Pull requests opened: 6
-- Pull requests merged: 1
+- Pull requests opened: 9
+- Pull requests merged: 5
 - Reviews: 0
-- Public repositories: 21
+- Public repositories: 29
 - Repository stars: 3
 - Followers: 3
 
