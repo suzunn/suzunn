@@ -18,7 +18,7 @@ Automated open-source contribution workflows, developer CLIs, and applied ML.
 
 ## 🤖 What I do
 
-- **AI-assisted open source** — I run a daily AI-augmented pipeline that triages maintainer feedback, keeps pull requests healthy, and ships focused fixes upstream. Merged into projects like `pnpm`, `remotion`, `sentry-javascript`, `typia`, `InvenTree`, and more — with active PRs across `fastify`, `storybook`, `hydra`, `theia`, and friends.
+- **AI-assisted open source** — I run a daily AI-augmented pipeline that triages maintainer feedback, keeps pull requests healthy, and ships focused fixes upstream. Merged into projects like `pnpm`, `remotion`, `sentry-javascript`, `hydra`, `theia`, and more — with active PRs across `fastify`, `storybook`, `weblate`, `CyberChef`, and friends.
 - **Developer tooling** — small, dependency-free CLIs that turn messy workflows into checks you can run in seconds.
 - **Applied ML & data** — notebooks and deployed apps: price prediction, clustering, computer vision, and NLP experiments.
 
@@ -58,8 +58,7 @@ Automated open-source contribution workflows, developer CLIs, and applied ML.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suzunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzunn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="./metrics.svg" alt="GitHub metrics (generated daily in this repo)" />
 
 <img src="https://streak-stats.demolab.com?user=suzunn&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
