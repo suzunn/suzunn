@@ -60,8 +60,6 @@ Automated open-source contribution workflows, developer CLIs, and applied ML.
 
 <img src="./metrics.svg" alt="GitHub metrics (generated daily in this repo)" />
 
-<img src="https://streak-stats.demolab.com?user=suzunn&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suzunn/suzunn/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/suzunn/suzunn/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
